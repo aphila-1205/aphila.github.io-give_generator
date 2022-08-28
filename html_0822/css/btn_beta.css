@@ -1,0 +1,46 @@
+button{
+    color:#dddddd;
+    background-color:#363636;
+    border-color:#474747;
+    border-style:outset;
+    border-width:3px;
+    font-size:14px;
+}
+button:hover{
+    background-color:#262626;
+    border-color:#373737;
+}
+button:active{
+    background-color:#202020;
+}
+.add{
+    color:#dddddd;
+    background-color:#437e47;
+    border-color:#6ea371;
+}
+.add:hover{
+    background-color:#3e6941;
+    border-color:#618562;
+}
+.remove{
+    color:#dddddd;
+    background-color:#aa5757;
+    border-color:#d1a5a5;
+    border-style:outset;
+}
+.remove:hover{
+    background-color:#925252;
+    border-color:#be9b9b;
+}
+.random{
+    color:#dddddd;
+    background-color:#606060;
+    border-color:#aeaeae;
+}
+.random:hover{
+    background-color:#505050;
+    border-color:#8e8e8e;
+}
+.random:active{
+    background-color:#404040;
+}

@@ -1,0 +1,45 @@
+button{
+    color:#ddd;
+    background-color:#444;
+    border-color:#555;
+    border-style:solid;
+    border-width:1px;
+    font-size:16px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color:#333;
+}
+button:active{
+    background-color:#222;
+}
+.add{
+    background-color:#473;
+    border-color:#584;
+}
+.add:hover{
+    background-color:#362;
+}
+.add:active{
+    background-color:#251;
+}
+.remove{
+    background-color:#a55;
+    border-color:#b66;
+}
+.remove:hover{
+    background-color:#944;
+}
+.remove:active{
+    background-color:#833;
+}
+.random{
+    background-color:#59c;
+    border-color:#6ad;
+}
+.random:hover{
+    background-color:#48b;
+}
+.random:active{
+    background-color:#37a;
+}
