@@ -1,0 +1,55 @@
+label, a{font-size:18px; color:#dddddd; font-weight:bold; font-family:Microsoft JhengHei;}
+
+::placeholder{font-size:12px; color:#aaaaaa; font-weight:bold; font-family:Microsoft JhengHei;}
+
+textarea, input[type=text], input[type=number]{
+    font-size:14px; 
+    background-color:#303030;
+    color:#ddd; 
+    font-weight:bold; 
+    font-family:Microsoft JhengHei;
+}
+
+input[type=number]{
+    font-size:12px; 
+}
+
+
+div{background-color:#555555;}
+
+input[type=checkbox] {
+    display: none;
+}
+
+input[type=text], input[type=number], input[type=list], select{
+    background-color:#333;
+    color:#ddd;
+}
+
+input[type=checkbox]+span {
+    display: inline-block;
+    background-color: #222222;
+    padding: 3px 6px;
+    border: 2px solid #aaaaaa;
+    color: #c8c8c8;
+    user-select: none;
+    font-size:14px;
+    font-weight:bold;
+    border-radius:8px;
+
+    width:185px;
+}
+input[type=checkbox]:checked+span {
+    color: #dddddd;
+    background-color: #a2a348;
+}
+
+table,
+td{
+    border: 1px solid #333;
+    font-family:Menlo, Monaco, Consolas, 'Droid Sans Mono';
+}
+
+a:hover{
+    color:#6666bb
+}
