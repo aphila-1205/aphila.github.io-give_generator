@@ -1,3 +1,5 @@
+body{background-color:#333333;}
+
 label, a{font-size:18px; color:#dddddd; font-weight:bold; font-family:Microsoft JhengHei;}
 
 ::placeholder{font-size:12px; color:#aaaaaa; font-weight:bold; font-family:Microsoft JhengHei;}
